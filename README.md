@@ -1,6 +1,6 @@
 # Path Visualizer React App
 
-## Currently live on [here](https://github.com/Princekr19/Graph-Trail.git)
+## Currently live on [here](https://path-visualizer.onrender.com/)
 
 This is a React application designed to demonstrate three popular graph traversal algorithms: Breadth-First Search (BFS), Depth-First Search (DFS), and Dijkstra's algorithm. The application provides a visual representation of these algorithms by allowing users to create a grid of nodes and manipulate them to simulate different scenarios.
 
